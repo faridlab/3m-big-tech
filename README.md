@@ -87,3 +87,7 @@ Large System Architecture
 
 ## Week 11 & 12: Revision
 Revision
+
+## References
+- [Penjelasan Sederhana Tentang Time Complexity dan Big-O Notation](https://medium.com/bee-solution-partners/penjelasan-sederhana-tentang-time-complexity-dan-big-o-notation-4337ba275cfe)
+- [Mengenal dan Menghitung Time Complexity dan Space Complexity](https://medium.com/99ridho/mengenal-dan-menghitung-time-complexity-dan-space-complexity-6418ea767336)
