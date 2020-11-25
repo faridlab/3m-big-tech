@@ -91,3 +91,6 @@ Revision
 ## References
 - [Penjelasan Sederhana Tentang Time Complexity dan Big-O Notation](https://medium.com/bee-solution-partners/penjelasan-sederhana-tentang-time-complexity-dan-big-o-notation-4337ba275cfe)
 - [Mengenal dan Menghitung Time Complexity dan Space Complexity](https://medium.com/99ridho/mengenal-dan-menghitung-time-complexity-dan-space-complexity-6418ea767336)
+- [Data Structures 101: Arrays — A Visual Introduction for Beginners](https://www.freecodecamp.org/news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/)
+- [Array Data Structure](https://www.geeksforgeeks.org/array-data-structure/)
+- [Advanced Data Structures](https://www.geeksforgeeks.org/advanced-data-structures/)
